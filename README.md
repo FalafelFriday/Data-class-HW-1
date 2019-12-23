@@ -3,5 +3,7 @@
 Prerequisites: Microsoft Excel
 
 
-Project Description: Using Microsoft excel wen analyzed and viewed data based on the stock market.
+Project Description: Using Microsoft excel wen analyzed data from Kickstatrter
+
+Code: none, no vba was used in the project
 
